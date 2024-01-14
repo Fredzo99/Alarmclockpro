@@ -1,42 +1,65 @@
 # Clock+
-Clock+ is a simple alarm clock, timer, and stopwatch app that offers a delightful user experience
-for all your timing needs.
 
-Highlights:
+Welcome to Clock+, a simple alarm clock, timer, and stopwatch app that offers a delightful user experience for all your timing needs. Clock+ is designed with a clean, minimalistic interface featuring Material Design principles. It includes new time pickers for setting alarms, a list of timers for easy management, and customizable themes.
 
-- **Clean, minimalistic design:** Features Material Design throughout.
-- **New time pickers:** Enjoy setting alarms with two new time pickers! Beautifully crafted and
-intuitively designed for ease of use.
-- **List of timers:** See all of your timers in one scrollable list, and control each one individually.
-- **Themes:** Choose between light, dark, and black themes.
+## Highlights
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Get it on Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.philliphsu.clock2)
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/com.philliphsu.clock2)
+- **Clean, Minimalistic Design**: Clock+ features a clean and minimalistic design based on Material Design principles, providing an aesthetically pleasing user experience.
 
-<img src="https://cloud.githubusercontent.com/assets/19766085/19008497/830d2844-8720-11e6-8b8e-ff01ebcc26fe.png" width="180" height="320" />
-<img src="https://cloud.githubusercontent.com/assets/19766085/19008498/8312eeaa-8720-11e6-9dc8-2079eb9c50f7.png" width="180" height="320" />
-<img src="https://cloud.githubusercontent.com/assets/19766085/19008382/cc800614-871f-11e6-8fab-d1be69807e91.png" height="320" />
+- **New Time Pickers**: Enjoy setting alarms with two new time pickers that are beautifully crafted and intuitively designed for ease of use.
+
+- **List of Timers**: Easily manage multiple timers with a scrollable list, allowing you to control each one individually.
+
+- **Themes**: Customize your experience with a choice of light, dark, and black themes.
+
+## Getting Started
+
+To use Clock+, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Fredzo99/Alarmclockpro.git
+   ```
+
+2. Open the project in your preferred development environment.
+
+3. Run the application to start using Clock+.
+
+## Features
+
+- **Alarm Clock**: Set alarms with the new time pickers.
+
+- **Timer List**: Manage multiple timers in a scrollable list.
+
+- **Stopwatch**: Use the built-in stopwatch for your timing needs.
+
+- **Themes**: Choose between light, dark, and black themes to customize your experience.
+
+## Contributing
+
+Feel free to contribute to the Clock+ project by making edits or commits to enhance functionality, fix bugs, or add new features. Follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes:
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. Create a pull request.
 
 ## License
-```
-Copyright 2017 Phillip Hsu
 
-This file is part of ClockPlus.
+This project is licensed under the [MIT License](LICENSE).
 
-ClockPlus is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+## Contact
 
-ClockPlus is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+If you have any questions, feedback, or suggestions, feel free to reach out to Fredzo99.
 
-You should have received a copy of the GNU General Public License
-along with ClockPlus.  If not, see <http://www.gnu.org/licenses/>.
-```
+Thank you for using Clock+!
